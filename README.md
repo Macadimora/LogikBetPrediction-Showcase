@@ -213,9 +213,6 @@ The synchronization system therefore includes validation and diagnostics rather 
 
 ![LogikBetPrediction Homepage](screenshots/homepage.png)
 
-### Predictions
-
-![Predictions](screenshots/predictions.png)
 
 ### User Dashboard
 
@@ -225,9 +222,6 @@ The synchronization system therefore includes validation and diagnostics rather 
 
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### Mobile Experience
-
-![Mobile Interface](screenshots/mobile.png)
 
 ---
 
